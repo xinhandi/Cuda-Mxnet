@@ -130,7 +130,7 @@ class centerlossOp : public Operator {
 
  private:
   centerlossParam param_;
-};  // class LSoftmaxOp
+};  // class centerlossOp
 
 template<typename xpu>
 Operator *CreateOp(centerlossParam param, int dtype);
@@ -222,10 +222,10 @@ class centerlossProp : public OperatorProperty {
 
  private:
   centerlossParam param_;
-};  // class LSoftmaxProp
+};  // class centerlossProp
 #endif  // DMLC_USE_CXX11
 
 }  // namespace op
 }  // namespace mxnet
 
-#endif // MXNET_OPERATOR_LSOFTMAX_INL_H_
+#endif // MXNET_OPERATOR_CENTERLOSS_INL_H_
