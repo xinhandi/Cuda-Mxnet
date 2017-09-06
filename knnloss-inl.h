@@ -4,8 +4,8 @@
  * \brief Knnloss
  * \author deepearthgo
  */
-#ifndef MXNET_OPERATOR_LSOFTMAX_INL_H_
-#define MXNET_OPERATOR_LSOFTMAX_INL_H_
+#ifndef MXNET_OPERATOR_KNNLOSS_INL_H_
+#define MXNET_OPERATOR_KNNLOSS_INL_H_
 
 #include <dmlc/logging.h>
 #include <dmlc/parameter.h>
