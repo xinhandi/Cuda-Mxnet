@@ -212,4 +212,4 @@ class KnnlossProp : public OperatorProperty {
 }  // namespace op
 }  // namespace mxnet
 
-#endif // MXNET_OPERATOR_LSOFTMAX_INL_H_
+#endif // MXNET_OPERATOR_KNNLOSS_INL_H_
