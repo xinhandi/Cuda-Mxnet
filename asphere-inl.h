@@ -1,7 +1,7 @@
 /*!
  * Copyright (c) 2017 by Contributors
- * \file Asphere-inl.h.cu
- * \brief Asphere from <SphereFace:Deep Hypersphere Embedding for Face Recognition 2017CVPR>
+ * \file asphere-inl.h
+ * \brief asphere from <SphereFace:Deep Hypersphere Embedding for Face Recognition 2017CVPR>
  * \author deepearthgo
  * \it's based on [https://github.com/wy1iu/sphereface][https://github.com/luoyetx/mx-lsoftmax]
  */
