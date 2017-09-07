@@ -1,2 +1,2 @@
 # Cuda
-Cuda DL Implementation
+Cuda DL Mxnet Implementation
